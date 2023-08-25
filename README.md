@@ -1,6 +1,6 @@
 # Single Price Grid Component Solution
 
-This is a project that demonstrates the development of a single price grid component solution using HTML and CSS. The project focuses on learning and applying concepts such as positioning, margin, padding, box-shadow, and transformation.
+This is a project that demonstrates the development of a single price grid component solution using HTML and CSS. The project focuses on learning and applying concepts such as positioning, margin, padding, box-shadow and transformation.
 
 ![Single Price Grid Component](./desktop-design.jpg)
 
