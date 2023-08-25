@@ -7,7 +7,7 @@ This is a project that demonstrates the development of a single price grid compo
 ## Table of Contents
 
 - [Single Price Grid Component Solution](#single-price-grid-component-solution)
-  - [Table of Contents](#table-of-contents)
+  
   - [Overview](#overview)
   - [Used Technologies](#used-technologies)
   - [Project Features](#project-features)
