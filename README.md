@@ -4,10 +4,11 @@ This is a project that demonstrates the development of a single price grid compo
 
 ![Single Price Grid Component](./desktop-design.jpg)
 
+
 ## Table of Contents
 
 - [Single Price Grid Component Solution](#single-price-grid-component-solution)
-  
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Used Technologies](#used-technologies)
   - [Project Features](#project-features)
@@ -43,4 +44,3 @@ Lucas de Lacerda
 
 - GitHub: [Lucasdelacerda](https://github.com/Lucasdelacerda)
 - Linkedin: [Lucas Lacerda](https://www.linkedin.com/in/lucas-lacerda-066316186/)
-

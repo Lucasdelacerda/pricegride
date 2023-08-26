@@ -10,12 +10,12 @@ body {
     background-color: hsl(204, 43%, 93%);
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    align-items: center;
     justify-content: center;
 }
 
 main {
-    
+
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -108,49 +108,62 @@ main {
     background: hsla(179, 53%, 48%, 0.962);
     width: 43.774%;
     border-radius: 0 0 10px 0;
-    color:white;
+    color: white;
 }
-.metrics{
-  
-    width:170px;
+
+.metrics {
+
+    width: 170px;
 }
-@media (max-width:644px){
-    body{
-        padding:15px;
+
+@media (max-width:644px) {
+    body {
+        padding: 15px;
     }
-    main{
+
+    main {
         place-self: center;
         display: flex;
         flex-direction: column;
-        max-width:285px;
+        max-width: 310px;
     }
-    .apprenticeship,.subscription,.presentation{
-        width:100%;
-        
-        padding:25px 0 35px 25px;
+
+    .apprenticeship,
+    .subscription,
+    .presentation {
+        width: 100%;
+        padding: 25px 0 35px 0px;
     }
-    .presentation{
+
+    .presentation {
         background: white;
-        height:205px;
-        gap:15px;
-        border-radius:20px 20px 0 0;
+        height: 205px;
+        gap: 15px;
+        border-radius: 10px 10px 0 0;
     }
-    .apprenticeship,.subscription{
-       height: 170px;
-       
+
+    .apprenticeship,
+    .subscription {
+        height: 170px;
     }
-    .apprenticeship{
-        border-radius: 0 0 20px 20px;
+
+    .apprenticeship {
+        border-radius: 0 0 10px 10px;
     }
-    .subscription{
-        border-radius:0;
+
+    .subscription {
+        border-radius: 0;
     }
-    .paragraph-title, .about-product{
-    
-        width:265px;
+
+    .paragraph-title,
+    .about-product {
+        width: 265px;
+    }
+    .text{
+        margin-left: 45px;
     }
     .sign{
-        margin-left: 10px;
+        place-self: center;
     }
-    
+
 }
